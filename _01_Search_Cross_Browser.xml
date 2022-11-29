@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="test2" >
+        <parameter name="browser" value="chorome"></parameter>
+        <parameter name="Data" value="sdgfdg201@mail.com"></parameter>        <classes>
+        <class name="Test._01_Test"></class>
+    </classes>
+    </test>
+
+</suite>
